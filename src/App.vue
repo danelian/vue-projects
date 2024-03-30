@@ -1,9 +1,9 @@
 <script setup>
-import RandomQuoteGenerator from './components/RandomQuoteGenerator.vue'
+import AmazingCalculator from './components/AmazingCalculator.vue'
 </script>
 
 <template>
-  <RandomQuoteGenerator />
+  <AmazingCalculator />
 </template>
 
 <style scoped>
