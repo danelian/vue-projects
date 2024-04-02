@@ -1,9 +1,9 @@
 <script setup>
-import AmazingCalculator from './components/AmazingCalculator.vue'
+import AccordionComponent from './components/AccordionComponent.vue'
 </script>
 
 <template>
-  <AmazingCalculator />
+  <AccordionComponent />
 </template>
 
 <style scoped>
