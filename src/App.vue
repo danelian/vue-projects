@@ -1,9 +1,9 @@
 <script setup>
-import AccordionComponent from './components/AccordionComponent.vue'
+import FormValidation from './components/FormValidation.vue'
 </script>
 
 <template>
-  <AccordionComponent />
+  <FormValidation />
 </template>
 
 <style scoped>
