@@ -1,9 +1,9 @@
 <script setup>
-import FormValidation from './components/FormValidation.vue'
+import PasswordGenerator from './components/PasswordGenerator.vue'
 </script>
 
 <template>
-  <FormValidation />
+  <PasswordGenerator />
 </template>
 
 <style scoped>
