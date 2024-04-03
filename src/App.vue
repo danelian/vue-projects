@@ -1,9 +1,9 @@
 <script setup>
-import DadJokes from './components/DadJokes.vue'
+import GithubUsersSearch from './components/GithubUsersSearch.vue'
 </script>
 
 <template>
-  <DadJokes />
+  <GithubUsersSearch />
 </template>
 
 <style scoped>
