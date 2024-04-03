@@ -1,9 +1,9 @@
 <script setup>
-import ProgressSteps from './components/ProgressSteps.vue'
+import DadJokes from './components/DadJokes.vue'
 </script>
 
 <template>
-  <ProgressSteps />
+  <DadJokes />
 </template>
 
 <style scoped>
