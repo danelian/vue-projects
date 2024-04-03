@@ -1,9 +1,9 @@
 <script setup>
-import GithubUsersSearch from './components/GithubUsersSearch.vue'
+import WikiClone from './components/WikiClone.vue'
 </script>
 
 <template>
-  <GithubUsersSearch />
+  <WikiClone />
 </template>
 
 <style scoped>
